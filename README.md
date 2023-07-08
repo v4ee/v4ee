@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**v4ee/v4ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 I regulary write articles on [Machine Learning and stuff](https://medium.com/@aryanc55)
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Anything and Everything**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **aryanc55@gmail.com**
+
+- ⚡ Fun fact **The only special thing about me is I am left-handed :D**
+
+<details>
+
+<summary>A Little More ABout ME!(click to expand)</summary>
+<p align="left">  
+<strong> Strong engineering professional with a B.tech focused on Information Technology from AJAY
+KUMAR GARG ENGINEERING COLLEGE. Research-oriented, interested in Machine Learning, skilled in
+Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theoratical basics in DSA, operating system, and computer networks. 
+</strong></p>  
+
+</details>
+
